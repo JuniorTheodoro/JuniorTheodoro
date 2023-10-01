@@ -34,8 +34,6 @@
 
 <h3 align="center">Services & Tools</h3>
 
-<h3 align="center">Services & Tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=for-the-badge" alt="PostgreSQL" />
