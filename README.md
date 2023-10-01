@@ -1,31 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Júnior Theodoro! 👋  <div align='right'>![](https://img.shields.io/github/followers/juniortheodoro)</div>
 
-## :hammer_and_wrench: Languages and Tools:
+[![Facebook URL](https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/junior.atheodoro/)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
-</div>
+[![Instagram URL](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=for-the-badge)](https://www.instagram.com/junior.atheodoro/)
 
-## :fire: My Stats :
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/juniortheodoro/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuniorTheodoro&theme=dark&background=000000)](https://git.io/streak-stats)
-<!--
-**JuniorTheodoro/JuniorTheodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn URL](https://img.shields.io/badge/Gmail-Contact_Me-white?logo=gmail&style=for-the-badge&logoColor=red)](mailto:junior18augusto@gmail.com)
 
-Here are some ideas to get you started:
+## **I'm a Software Engineer.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+
+<hr/>
+
+<a href="https://github.com/juniortheodoro">
+  <img src="https://github-readme-stats.vercel.app/api?username=juniortheodoro&count_private=true&show_icons=true&hide=stars" />
+</a>
