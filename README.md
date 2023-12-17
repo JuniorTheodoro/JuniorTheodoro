@@ -47,4 +47,5 @@
   <img src="https://img.shields.io/badge/Minio-purple?logo=minio&style=for-the-badge" alt="Minio" />
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebird-red?logo=firebird&style=for-the-badge" alt="Firebird" />
+  <img src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql&style=for-the-badge" alt="Postgres" />
 </p>
