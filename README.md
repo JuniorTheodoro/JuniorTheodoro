@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/JetBrains%20Rider-blue?logo=rider&style=for-the-badge" alt="JetBrains Rider" />
   <img src="https://img.shields.io/badge/C%23-purple?logo=c-sharp&style=for-the-badge" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-purple?logo=.net&style=for-the-badge" alt=".NET" />
